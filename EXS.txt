@@ -1,0 +1,19 @@
+1 .   Build Linear Regression for Salaries Data
+
+Step 1: Importing the dataset
+Step 2: Data pre-processing
+Step 3: Splitting the test and train sets
+Step 4: Fitting the linear regression model to the training set
+Step 5: Predicting test results
+Step 6: Visualizing the test results
+
+
+2. Implement Same Procedure for Car Dataset
+
+Enter Volkswagen cars Horse Power : 210
+This Volkswagen Prce will be :  2146314 ?
+
+
+3. Use multiple linear regression to predict the gas consumptions (in millions of gallons) in 48 US states based upon gas taxes (in cents), per capita income (dollars), paved highways (in miles) and the proportion of population that has a drivers license
+
+4. Use Notebook file
